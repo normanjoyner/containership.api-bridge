@@ -1,5 +1,5 @@
 {
-  "name": "@jeremykross/containership.api-bridge",
+  "name": "@containership/containership.api-bridge",
   "version": "1.0.14",
   "dependencies": {
     "@containership/containership.abstraction.api": "git+https://***REMOVED***:x-oauth-basic@github.com/containership/containership.abstraction.api",
