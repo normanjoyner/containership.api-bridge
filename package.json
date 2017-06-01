@@ -1,0 +1,17 @@
+{
+  "name": "@jeremykross/containership.api-bridge",
+  "version": "1.0.14",
+  "dependencies": {
+    "@jeremykross/containership.abstraction.api": "^1.0.0",
+    "@jeremykross/containership.plugin": "*",
+    "lodash": "^4.17.4",
+    "request": "^2.79.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
