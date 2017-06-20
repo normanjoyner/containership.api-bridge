@@ -11,7 +11,6 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@containership/containership.abstraction.api": "git+https://5fe3d6da9bd8b65f13abbbfb608aba1eab5d44d8:x-oauth-basic@github.com/containership/containership.abstraction.api",
-    "@containership/containership.plugin": "git+https://5fe3d6da9bd8b65f13abbbfb608aba1eab5d44d8:x-oauth-basic@github.com/containership/containership.plugin#v2",
     "lodash": "^4.17.4",
     "request": "^2.79.0"
   },
